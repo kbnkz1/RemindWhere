@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28705.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemindWhere", "RemindWhere\RemindWhere\RemindWhere.csproj", "{866CE071-6AF9-43F4-9035-43C3AF8AF06C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemindWhere.Android", "RemindWhere\RemindWhere.Android\RemindWhere.Android.csproj", "{80887904-46DF-43FC-82A1-7BEA55752EFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemindWhere.API", "RemindWhere.API\RemindWhere.API.csproj", "{CDB9D7CC-6150-43FF-A4EB-E4229566D14A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{866CE071-6AF9-43F4-9035-43C3AF8AF06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866CE071-6AF9-43F4-9035-43C3AF8AF06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866CE071-6AF9-43F4-9035-43C3AF8AF06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866CE071-6AF9-43F4-9035-43C3AF8AF06C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80887904-46DF-43FC-82A1-7BEA55752EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80887904-46DF-43FC-82A1-7BEA55752EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80887904-46DF-43FC-82A1-7BEA55752EFA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{80887904-46DF-43FC-82A1-7BEA55752EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80887904-46DF-43FC-82A1-7BEA55752EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80887904-46DF-43FC-82A1-7BEA55752EFA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CDB9D7CC-6150-43FF-A4EB-E4229566D14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB9D7CC-6150-43FF-A4EB-E4229566D14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB9D7CC-6150-43FF-A4EB-E4229566D14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB9D7CC-6150-43FF-A4EB-E4229566D14A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3B9AA93-5244-4FBD-B2E2-0EDC7E3E2B2B}
+	EndGlobalSection
+EndGlobal
